@@ -1,0 +1,26 @@
+.row {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.box {
+    height: 170px;
+    width: 170px;
+    margin: 10px;
+    background-color: chocolate;
+}
+
+.space1 {
+    height: 170px;
+    width: 180px;
+    margin: 10px;
+}
+
+.space2 {
+    height: 170px;
+    width: 350px;
+    margin: 10px;
+}

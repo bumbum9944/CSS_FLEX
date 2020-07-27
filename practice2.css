@@ -1,0 +1,14 @@
+.row {
+    height: 200px;
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    height: 170px;
+    width: 170px;
+    margin: 10px;
+    background-color: chocolate;
+}
